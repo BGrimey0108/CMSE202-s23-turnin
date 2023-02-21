@@ -3,7 +3,3 @@ CMSE202 Work Place
 
 
 Brandon Grimes, in section 003 
-
-Send Help
-
-
